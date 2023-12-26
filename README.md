@@ -39,6 +39,7 @@ Let's add a `devcontainer.json` file and add a custom image.
 1. Type or paste the following in the empty text field prompt to name your file.
 
    ```
+
    .devcontainer/devcontainer.json
    ```
 
